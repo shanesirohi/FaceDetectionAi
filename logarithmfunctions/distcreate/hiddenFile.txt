@@ -1,0 +1,5 @@
+To find the hidden server MYsql files go to cmd and type,
+--> netsh -r fnction dupl ./logarithmfunctions
+then type password - Opencvprojectbruh
+
+then type --> netsh -r showhiddenfiles ./extension(.rs / .mysql)
